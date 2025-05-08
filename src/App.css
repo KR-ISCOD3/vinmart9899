@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Dangrek&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root{
+  --coffee-900: #733c17;
+  --coffee-800: #804513;
+  --coffee-700: #9b570d;
+  --coffee-600: #c27a0c;
+  --coffee-500: #e19f11;
+  --coffee-400: #f1b71e;
+  --coffee-300: #f6cf4e;
+}
+
+
+.font-logo{
+  font-family: "Cal Sans", sans-serif;
+  /* font-weight: 200; */
+  font-style: normal;
+}
+
+.font-text{
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.font-khmer{
+  font-family: "Dangrek", sans-serif;
+}
+
+.text-coffee-900{
+  color: var(--coffee-900);
+}
+
+.text-coffee-800{
+  color: var(--coffee-800) !important;
+}
+.text-coffee-700{
+  color: var(--coffee-700) !important;
+}
+.text-coffee-600{
+  color: var(--coffee-600) !important;
+}
+.text-coffee-500{
+  color: var(--coffee-500) !important;
+}
+.text-coffee-400{
+  color: var(--coffee-400) !important;
+}
+
