@@ -53,7 +53,7 @@ function Navbar() {
                                 <div style={{width:50,height:50}} className='bg-secondary rounded-circle overflow-hidden me-1'>
                                     <img src="./image/lokru.png" alt="" className='w-100 h-100 object-fit-cover'/>
                                 </div>
-                                <span className='fs-5 font-khmer'>ខ្ញុំគ្រូអាយធីចិត្តល្អ</span>
+                                <span className='fs-5 font-khmer'>គ្រូអាយធីចិត្តល្អ</span>
                             </button>
                         <ul className="dropdown-menu">
                             <li><a className="dropdown-item" href="#">Action</a></li>

@@ -46,3 +46,17 @@
   color: var(--coffee-400) !important;
 }
 
+input::placeholder{
+  color: white !important;
+}
+textarea::placeholder{
+  color: white !important;
+}
+
+
+.bg-image{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/011/332/525/non_2x/hand-drawn-coffee-concept-background-free-vector.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
